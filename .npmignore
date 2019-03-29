@@ -1,0 +1,11 @@
+# Dotfiles
+.babelrc
+.eslintignore
+.eslintrc.json
+
+# Documents
+TBD
+
+# Test cases
+__tests__
+dist/__tests__
